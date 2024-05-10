@@ -9759,7 +9759,11 @@ small{
 
 
 
-
+.custombgbar {
+  background: #bd2130;
+  padding: 50px;
+  border-radius: 16px;
+}
 
 
 
